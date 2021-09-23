@@ -1,0 +1,12 @@
+body {
+    width: 900px;
+    height: 100vh;
+    margin: auto;
+    /* font-family: 'Parisienne', cursive; */
+    font-family: 'Cookie', cursive;
+    background-color: blanchedalmond;
+}
+
+h1, h2 {
+    margin: 4rem 0;
+}
